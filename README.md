@@ -1,7 +1,3 @@
-Got it! Based on your feedback, I've updated the usage instructions to reflect a more interactive approach where the program asks for the total wood length in millimeters and then prompts the user to input the sizes of cuts they need, one by one, until all required sizes are provided.
-
-Here's the updated **README** for **Efficut**:
-
 ---
 
 # Efficut - README
