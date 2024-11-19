@@ -28,13 +28,13 @@ Efficut is easy to install and works on all major platforms (Windows, macOS, and
 
 ### Install via Download
 
-To install Efficut, download the latest release from the [GitHub Releases page](https://github.com/yourusername/efficut/releases).
+To install Efficut, download the latest release from the [GitHub Releases page](https://github.com/vkaiyah2/efficut/releases).
 
 ### Install via Source (Optional)
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/efficut.git
+   git clone https://github.com/vkaiyah2/efficut.git
    ```
 2. Navigate to the project directory:
    ```bash
