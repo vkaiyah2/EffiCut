@@ -1,5 +1,3 @@
----
-
 # Efficut - README
 
 ## Overview
